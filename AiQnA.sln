@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AiQnA", "AiQnA.csproj", "{2FC97702-AC7D-4835-AC1D-8C10445E841E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC97702-AC7D-4835-AC1D-8C10445E841E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC97702-AC7D-4835-AC1D-8C10445E841E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC97702-AC7D-4835-AC1D-8C10445E841E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC97702-AC7D-4835-AC1D-8C10445E841E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE3C13FB-1401-4985-8B00-B88A7CDC2798}
+	EndGlobalSection
+EndGlobal
